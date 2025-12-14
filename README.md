@@ -1,7 +1,7 @@
 # Antidote – Writing Assistant & Grammar Checker
 
 <div align="center">  
-  <img src="https://images.seeklogo.com/logo-png/43/1/antidote-logo-png_seeklogo-439980.png" width="250" alt="Antidote Logo"/>  
+  <img src="https://static.macupdate.com/products/27788/m/antidote-logo.png?v=1589888514" width="250" alt="Antidote Logo"/>  
 </div>  
 
 <br>  
